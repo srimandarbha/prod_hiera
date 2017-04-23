@@ -4,3 +4,7 @@ moduledir '/etc/puppetlabs/code/environments/production'
 mod 'manifests',
   :git => 'https://github.com/srimandarbha/prod_manifest',
   :branch => 'master'
+
+mod 'hieradata',
+  :git => 'https://github.com/srimandarbha/prod_hieradata',
+  :branch => 'master'
