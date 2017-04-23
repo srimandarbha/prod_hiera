@@ -1,5 +1,5 @@
 mod 'puppetlabs-tomcat', '1.6.1'
-mod 'puppetlabs-stdlib'
+mod 'puppetlabs-stdlib', '>= 4.6.0 < 5.0.0'
 mod 'puppetlabs-concat'
 mod 'puppet-staging'
 
