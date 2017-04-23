@@ -1,4 +1,7 @@
 mod 'puppetlabs-tomcat', '1.6.1'
+mod 'puppetlabs-stdlib'
+mod 'puppetlabs-concat'
+mod 'puppet-staging'
 
 mod 'sriman',
   :git => 'https://github.com/srimandarbha/sriman-puppetmod',
