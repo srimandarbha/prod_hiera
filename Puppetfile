@@ -1,7 +1,7 @@
 mod 'puppetlabs-tomcat', '1.6.1'
 mod 'puppetlabs-stdlib', '4.6.0'
 mod 'puppetlabs-concat', '1.1.0'
-mod 'puppet-staging', '0.4.1'
+mod 'puppet-staging'
 
 mod 'curl',
   :git => 'https://github.com/alphagov/puppet-curl',
